@@ -1,0 +1,6 @@
+git checkout main
+echo "~"> .gitignore
+cat .gitignore
+git add .
+git commit -m "~"
+git push
